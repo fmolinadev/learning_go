@@ -2,11 +2,11 @@ package main
 
 //import "paquetes/figuras"
 
-import "github.com/donvito/hellomod"
+// import "github.com/donvito/hellomod"
 
 func main() {
 
-	hellomod.SayHello()
+	// hellomod.SayHello()
 
 	/**
 	p1 := models.Persona{}
